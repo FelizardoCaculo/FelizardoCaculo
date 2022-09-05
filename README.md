@@ -3,7 +3,7 @@
 - Eu estou trabalhando atualmente no BFA-Banco Fomento Angola.
 - Eu estou aprendendo HTML, CSS and JavaScript.
 
-<!-- Exemplo de perfil FelizardoCaculo
+Exemplo de perfil FelizardoCaculo
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm FelizardoCaculo</h1>
 <h3 align="center">A Web Developer Instructor focused on helping people start programming just like me</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FelizardoCaculo" alt="FelizardoCaculo" /> </p>
@@ -38,19 +38,19 @@
 <a href="https://codesandbox.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://fb.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://instagram.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
-</p> -->
+</p>
 
-<!--
+
 **FelizardoCaculo/FelizardoCaculo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -
 Here are some ideas to get you started:
 -
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on developing a website to teach a learning path for web development.
+- 🌱 I’m currently learning HTML5, CSS3 & JavaScript
+- 👯 I’m looking to collaborate on my personal projects to develop my skills
+- 🤔 I’m looking for help with an oportunity  
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
