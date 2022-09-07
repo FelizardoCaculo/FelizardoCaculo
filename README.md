@@ -4,13 +4,12 @@
 - Eu estou trabalhando atualmente no BFA - [Banco Fomento Angola](https://www.bfa.ao)
 - Eu estou aprendendo HTML, CSS and JavaScript.
 
-<!--
+
 Exemplo de perfil FelizardoCaculo
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm FelizardoCaculo</h1>
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/FelizardoCaculo/FelizardoCaculo/master/hi.gif" width="30px">, I'm FelizardoCaculo</h1>
 <h3 align="center">A Web Developer Instructor focused on helping people start programming just like me</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FelizardoCaculo" alt="FelizardoCaculo" /> </p>
--->
--
+
 - 🔭 I’m currently working on [Banco Fomento Angola](https://www.bfa.ao)
 - 👨‍💻 All of my projects are available at [FelizardoCaculo-Portfolio](https://felizardocaculo-portfolio.herokuapp.com/)
 - ▶️ I regulary post videos on [youtube.com/Portal de Cursos Online F C](https://youtube.com/channel/UCGJg7DtpcwaBxNcI0iCwDYQ)
