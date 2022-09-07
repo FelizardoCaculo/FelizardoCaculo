@@ -1,13 +1,14 @@
-### Olá 👋
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/FelizardoCaculo/FelizardoCaculo/master/hi.gif" width="30px">, Sou FelizardoCaculo</h1>
+<h3 align="center">Um desenvolvedor Web, focado em ajudar pessoas iniciantes na Programação</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FelizardoCaculo" alt="FelizardoCaculo" /> </p>
 - Estou em busca de oportunidades para mudança de carreira.
 - Eu estou trabalhando atualmente no BFA-Banco Fomento Angola.
 - Eu estou trabalhando atualmente no BFA - [Banco Fomento Angola](https://www.bfa.ao)
 - Eu estou aprendendo HTML, CSS and JavaScript.
 
 
-Exemplo de perfil FelizardoCaculo
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/FelizardoCaculo/FelizardoCaculo/master/hi.gif" width="30px">, I'm FelizardoCaculo</h1>
-<h3 align="center">A Web Developer Instructor focused on helping people start programming just like me</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/FelizardoCaculo/FelizardoCaculo/master/hi.gif" width="30px">, I'm FelizardoCaculo</h1>
+<h3 align="center">A Web Developer focused on helping people start programming</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FelizardoCaculo" alt="FelizardoCaculo" /> </p>
 
 - 🔭 I’m currently working on [Banco Fomento Angola](https://www.bfa.ao)
