@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/FelizardoCaculo/FelizardoCaculo/master/hi.gif" width="30px">, Sou FelizardoCaculo</h1>
+<h1 align="center">Olá <img src="https://github.com/FelizardoCaculo.png" width="30px">, Sou FelizardoCaculo</h1>
 <h3 align="center">Um desenvolvedor Web, focado em ajudar pessoas iniciantes na Programação</h3>
 <p align="left"> <img src="https://github.com/account" alt="FelizardoCaculo" /> </p>
 
@@ -18,7 +18,7 @@
 -
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/FelizardoCaculo/FelizardoCaculo/master/hi.gif" width="30px">, I'm FelizardoCaculo</h1>
+<h1 align="center">Hi <img src="https://github.com/FelizardoCaculo.png" width="30px">, I'm FelizardoCaculo</h1>
 <h3 align="center">A Web Developer focused on helping people start programming</h3>
 <p align="left"> <img src="https://github.com/account" alt="FelizardoCaculo" /> </p>
 
