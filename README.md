@@ -28,9 +28,9 @@
 - ▶️ I regulary post videos on [Portal de Cursos Online F C](https://https://portal-de-cursos-online-fc.herokuapp.com/)
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL**
 - 📫 How to reach me **felizardo1987@gmail.com**
-- 🔭 I’m currently working on developing a website to teach a learning path for web development.
+- 🔭 I’m currently working on developing a website [Portal de Cursos Online F C](https://https://portal-de-cursos-online-fc.herokuapp.com/) to teach the same web development learning path that i am studing.
 - 🌱 I’m currently learning HTML5, CSS3 & JavaScript
-- 👯 I’m looking to collaborate on my personal projects to develop my skills
-- 🤔 I’m looking for help with an oportunity to work as a web developer
+- 👯 I’m working on my personal projects to develop my skills
+- 🤔 I’m looking for an oportunity to work as a web developer
 
 
