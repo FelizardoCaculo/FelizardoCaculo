@@ -10,7 +10,7 @@
 - 👨‍💻 Todos meus projectos estão disponíveis no [FelizardoCaculo-Portfolio](https://felizardocaculo-portfolio.herokuapp.com/)
 - ▶️ Posto regularmente vídeos no [youtube.com/Portal de Cursos Online F C](https://youtube.com/channel/UCGJg7DtpcwaBxNcI0iCwDYQ)
 - 💬 Pergunta-me sobre **JavaScript, HTML, CSS, SQL**
-- 📫 Como contactar-me **felizardo1987@gmail.com**
+- 📫 Como contactar-me **felizardo1987@gmail.com** ou **portaldecursosonlinefc@gmail.com**
 - 🔭 Estou trabalhando actualmente no desenvolvimento de um website [Portal de Cursos Online F C](https://https://portal-de-cursos-online-fc.herokuapp.com/) para ensinar a mesma carreira de desenvolvimento que estou estudando.
 - 🌱 Estou aprendento actualmente HTML5, CSS3 & JavaScript
 - 👯 Estou trabalhando no desenvolvimento dos meus projectos pessoais para desenvolver minhas habilidades.
@@ -27,7 +27,7 @@
 - 👨‍💻 All of my projects are available at [FelizardoCaculo-Portfolio](https://felizardocaculo-portfolio.herokuapp.com/)
 - ▶️ I regulary post videos on [Portal de Cursos Online F C](https://https://portal-de-cursos-online-fc.herokuapp.com/)
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL**
-- 📫 How to reach me **felizardo1987@gmail.com**
+- 📫 How to reach me **felizardo1987@gmail.com** or **portaldecursosonlinefc@gmail.com**
 - 🔭 I’m currently working on developing a website [Portal de Cursos Online F C](https://https://portal-de-cursos-online-fc.herokuapp.com/) to teach the same web development learning path that i am studing.
 - 🌱 I’m currently learning HTML5, CSS3 & JavaScript
 - 👯 I’m working on my personal projects to develop my skills
