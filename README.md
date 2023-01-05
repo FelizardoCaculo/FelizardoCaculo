@@ -15,7 +15,6 @@
 - 🌱 Estou aprendento actualmente HTML5, CSS3 & JavaScript
 - 👯 Estou trabalhando no desenvolvimento dos meus projectos pessoais para desenvolver minhas habilidades.
 - 🤔 Estou procurando oportunidades para trabalhar como desenvolvedor web.
--
 
 
 <h1 align="center">Hi <img src="https://avatars.githubusercontent.com/u/105264210?s=400&u=981c1d2aa18c1c2a20ed8dbce6ca0735f865bc40&v=4" width="30px">, I'm FelizardoCaculo</h1>
