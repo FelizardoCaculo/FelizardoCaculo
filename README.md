@@ -4,7 +4,6 @@
 
 
 - Estou em busca de oportunidades para mudança de carreira.
-- Eu estou trabalhando atualmente no BFA-Banco Fomento Angola.
 - Eu estou trabalhando atualmente no BFA - [Banco Fomento Angola](https://www.bfa.ao)
 - Eu estou aprendendo HTML, CSS and JavaScript.
 - 👨‍💻 Todos meus projectos estão disponíveis no [FelizardoCaculo-Portfolio](https://my-portfolio-fc.onrender.com/)
